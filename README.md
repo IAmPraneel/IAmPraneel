@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm praneel ok</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Praneel </h1>
+<h3 align="center">An aspiring Quantitative Researcher, keen on research and a Machine Learning and Data Science enthusiast</h3>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
+- 🔭 I’m currently working on Research on Benchmarking of Hybrid Quantum Neural Networks for Option Pricing
+- 🌱 I’m currently learning Financial Mathematics
+- 👯 I’m looking to collaborate on research work in Deep Learning/ Quantum/Optical Machine Learning
+- 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
 
 <picture>
