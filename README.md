@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praneel </h1>
+<h1 align="center">Hi 👋, I'm Praneel Gore</h1>
 <h3 align="center">An aspiring Quantitative Researcher, keen on research and a Machine Learning and Data Science enthusiast</h3>
 
 - 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
