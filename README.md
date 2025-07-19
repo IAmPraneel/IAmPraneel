@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on research work in Deep Learning/ Quantum/Optical Machine Learning
 - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
+My latest project, a research paper is under considerationa at npj Quantum Information and the preprint is linked below.
+https://doi.org/10.21203/rs.3.rs-7093575/v1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IAmPraneel/IAmPraneel/output/github-snake-dark.svg" />
