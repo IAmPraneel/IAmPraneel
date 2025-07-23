@@ -2,9 +2,10 @@
 <h3 align="center">An aspiring Quantitative Researcher, keen on research and a Machine Learning and Data Science enthusiast</h3>
 
 - 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
-- 🔭 I’m currently working on Research on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks. (Submitted and under consideration at npj Quantum Information).
+- 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is submitted to and under consideration at npj Quantum Information.
+- Current project: At intersection of Neuromorphic computing, Photonic computing, Quantum comuting and Machine Learning. (Yes, really.)
 - 🌱 I’m currently learning Financial Mathematics, QML
-- 👯 I’m looking to collaborate on research work in Deep Learning/ Quantum/Optical Machine Learning
+- 👯 I’m looking to collaborate on research work in Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning.
 - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
 My latest project, a research paper is under considerationa at npj Quantum Information and the preprint is linked below.
