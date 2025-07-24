@@ -3,8 +3,9 @@
 
 - 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
 - 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is submitted to and under consideration at npj Quantum Information.
-- Current project: At intersection of Neuromorphic computing, Photonic computing, Quantum comuting and Machine Learning. (Yes, really.)
-- 🌱 I’m currently learning Financial Mathematics, QML
+
+- Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum comuting and Machine Learning
+  
 - 👯 I’m looking to collaborate on research work in Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning.
 - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
