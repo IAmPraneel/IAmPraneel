@@ -4,7 +4,9 @@
 - 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
 - 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is submitted to and under consideration at npj Quantum Information.
 
-- Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum mechanics and computing and Machine Learning. Based on a curated syllabus comprising Spiking Neuron models (Wulfram Gerstner and Werner M. Kistler) + Quantum Machine Learning ( Peter Wittek) + Roadmap on Neuromorphic Photonics (100+ authors) + PennyLane Codebook + Quantum Country
+- Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum mechanics and computing and Machine Learning.
+  - Based on a curated syllabus comprising Spiking Neuron models (Wulfram Gerstner and Werner M. Kistler) + Quantum Machine Learning ( Peter Wittek) + Roadmap on Neuromorphic Photonics (100+ authors) + PennyLane Codebook + Quantum Country
+  - And tools like pennylane (classical quantum computing simulation) + strawberry fields (photonic quantum simulations) + snntorch (neuromorphic simulations)
   
 - 👯 I’m looking to collaborate on research work in Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning.
 - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
