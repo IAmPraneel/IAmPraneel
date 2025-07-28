@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Quantitative Researcher, keen on research and a Machine Learning and Data Science enthusiast</h3>
 
 - 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
-- 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is submitted to and under consideration at npj Quantum Information.
+- 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
 
 - Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum mechanics and computing and Machine Learning.
   - Based on a curated syllabus comprising Spiking Neuron models (Wulfram Gerstner and Werner M. Kistler) + Quantum Machine Learning ( Peter Wittek) + Roadmap on Neuromorphic Photonics (100+ authors) + PennyLane Codebook + Quantum Country
@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on research work in Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning.
 - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
-My latest project, a research paper is under considerationa at npj Quantum Information and the preprint is linked below.
-https://doi.org/10.21203/rs.3.rs-7093575/v1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IAmPraneel/IAmPraneel/output/github-snake-dark.svg" />
