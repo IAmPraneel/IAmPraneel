@@ -8,7 +8,7 @@
   - And tools like pennylane (classical quantum computing simulation) + strawberry fields (photonic quantum simulations) + snntorch (neuromorphic simulations)
   - While a detailed roadmap and checkpoints are being maintained in a private repository.
   
-- 👯 I’m looking to collaborate on research work in Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning.
+- 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. Bullish on photonic quantum computing (🔦⚛️🖥️)
 - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
 
