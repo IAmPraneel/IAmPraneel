@@ -4,7 +4,7 @@
 - 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
 - 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
 
-- Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum mechanics and computing and Machine Learning.
+- Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum computing and Machine Learning.
   - Based on a curated syllabus comprising Spiking Neuron models (Wulfram Gerstner and Werner M. Kistler) + Quantum Machine Learning ( Peter Wittek) + Roadmap on Neuromorphic Photonics (100+ authors) + PennyLane Codebook + Quantum Country
   - And tools like pennylane (classical quantum computing simulation) + strawberry fields (photonic quantum simulations) + snntorch (neuromorphic simulations)
   - While a detailed roadmap and checkpoints are being maintained in a private repository.
