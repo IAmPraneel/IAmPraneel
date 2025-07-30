@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneel Gore</h1>
 <h3 align="center">An aspiring Quantitative Researcher, keen on research and a Machine Learning and Data Science enthusiast</h3>
 
-- 🧑‍🎓 I’m currently pursuing dual degree BE Computer Engg from PICT and BS Data Science & Applications from IIT Madras
 - 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
 
 - Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum computing and Machine Learning.
