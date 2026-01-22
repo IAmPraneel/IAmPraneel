@@ -37,11 +37,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/PennyLane_logo.svg" alt="PennyLane Logo" width="40" height="40">
 </a>
 
-<h3 align="left">Embedded Video:</h3>
-<video width="640" height="360" controls autoplay loop muted>
-  <source src="Wigner_quasiprobability_distribution_of_cat_states_grid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Wigner Cat Video](wigner_quasiprobability_distribution_of_cat_states_grid.mp4)
 
 
 </p>
