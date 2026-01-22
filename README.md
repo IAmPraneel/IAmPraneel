@@ -37,7 +37,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/PennyLane_logo.svg" alt="PennyLane Logo" width="40" height="40">
 </a>
 
-[Watch Wigner Cat Video](wigner_quasiprobability_distribution_of_cat_states_grid.mp4)
-
+![Wigner Cat GIF](wigner_preview.gif)
 
 </p>
