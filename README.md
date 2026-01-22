@@ -37,10 +37,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/PennyLane_logo.svg" alt="PennyLane Logo" width="40" height="40">
 </a>
 
-<!-- Embedded Media -->
-<video width="640" height="480" controls autoplay loop muted>
-  <source src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wigner_quasiprobability_distribution_of_cat_states,_grid.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+# Quantum States Visualization
+
+## Interactive Demo
+
+[![Wigner Distribution Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wigner_quasiprobability_distribution_of_cat_states%2C_grid.webm/600px-thumbnail.jpg)](https://yourusername.github.io/quantum-visualization/)
+
+**Features:**
+- Full interactive WebM player
+- Autoplay and fullscreen support
+- Direct from Wikimedia Commons
+
+[👉 Launch Full Interactive Viewer](https://yourusername.github.io/quantum-visualization/)
 
 </p>
