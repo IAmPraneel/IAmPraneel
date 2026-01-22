@@ -37,6 +37,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/PennyLane_logo.svg" alt="PennyLane Logo" width="40" height="40">
 </a>
 
-![Wigner Cat States](https://upload.wikimedia.org/wikipedia/commons/5/55/Wigner_quasiprobability_distribution_of_cat_states_grid.gif)
+<!-- Embedded Media -->
+<video width="640" height="480" controls autoplay loop muted>
+  <source src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wigner_quasiprobability_distribution_of_cat_states,_grid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 </p>
