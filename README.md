@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Praneel Gore</h1>
-<h3 align="center">An aspiring Quantitative Researcher, keen on research and a Machine Learning and Data Science enthusiast</h3>
+<h1 align="center">Praneel Gore</h1>
+<h3 align="center">Working towards Neuromorphic Quantum Photonics</h3>
 
 - 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
   Research Gate: https://www.researchgate.net/scientific-contributions/Praneel-Gore-2320201473
@@ -11,7 +11,6 @@
   - While a detailed roadmap and checkpoints are being maintained in a private repository.
   
 - 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. Bullish on photonic quantum computing (🔦⚛️🖥️)
-- 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 
 Currently studying Bosonic QEC (Below animation: Wigner distribution of cat states, from wiki)
 <p align="center">
@@ -34,6 +33,7 @@ Currently studying Bosonic QEC (Below animation: Wigner distribution of cat stat
 <a href="https://orcid.org/0009-0001-8068-5358" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="30" width="30" />
 </a>
+  - 📫 How to reach me: praneelgore@gmail.com | 23f2002255@ds.study.iitm.ac.in
 </p>
 --------------
 <h3 align="left">Languages and Tools:</h3>
