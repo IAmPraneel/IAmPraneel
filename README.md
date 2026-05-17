@@ -1,5 +1,5 @@
 <h1 align="center">Praneel Gore</h1>
-<h3 align="center">Working towards Neuromorphic Quantum Photonics</h3>
+<h3 align="center">Working towards Neuromorphic Quantum Photonics.</h3>
 
 - 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
   Research Gate: https://www.researchgate.net/scientific-contributions/Praneel-Gore-2320201473
