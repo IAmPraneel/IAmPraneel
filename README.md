@@ -12,6 +12,8 @@
   
 - 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. Bullish on photonic quantum computing (🔦⚛️🖥️)
 
+- 🍉 Watermelon is the best fruit, followed by lychee.
+
 Currently studying Bosonic QEC (Below animation: Wigner distribution of cat states, from wiki)
 <p align="center">
   <img src="Wigner_quasiprobability_distribution_of_cat_states_grid-ezgif.com-cut.gif" alt="Wigner Cat GIF" />
