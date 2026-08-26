@@ -1,14 +1,15 @@
 <h1 align="center">Praneel Gore</h1>
-<h3 align="center">Working towards Neuromorphic Quantum Photonics</h3>
+<h3 align="center">Working towards Quantum Information</h3>
 
-- 🔭 My recent research work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
+- Currently working at A*STAR (Agency for Science, Technology and Research, IAIC) in collaboration with CQT (Center for Quantum Technologies, NUS) on Bosonic Quantum Error Correction (QEC). Where I build Noise modelling pipeline for new family of bosonic codes.
+-  
+- 🔭 recent work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
   Research Gate: https://www.researchgate.net/scientific-contributions/Praneel-Gore-2320201473
   Sciety: https://sciety.org/articles/activity/10.21203/rs.3.rs-7093575/v1
 
-- Disappointed at how uninteresting the syllabus is I am teaching myself Neuromorphic computing, Photonic computing, Quantum computing from a Machine Learning perspective.
-  - Based on a curated syllabus comprising Introduction to Quantum Computing (Hiu Yung Wong) + Spiking Neuron models (Wulfram Gerstner and Werner M. Kistler) + Quantum Machine Learning ( Peter Wittek) + Roadmap on Neuromorphic Photonics (100+ authors) + PennyLane Codebook + Quantum Country
-  - And tools like pennylane (classical quantum computing simulation) + strawberry fields (photonic quantum simulations) + snntorch (neuromorphic simulations)
-  - While a detailed roadmap and checkpoints are being maintained in a private repository.
+- Interested in Quantum Machine Learning, Quantum Algorithms, CV Quantum Information, Quantum Error Correction.
+- 
+- Am looking for graduate study opportunities (preferably PhD in quantum information), if you have any positions feel free to reach out!
   
 - 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. Bullish on photonic quantum computing (🔦⚛️🖥️)
 
