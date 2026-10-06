@@ -3,7 +3,14 @@
 
 - Currently working at A*STAR (Agency for Science, Technology and Research, IAIC) in collaboration with CQT (Center for Quantum Technologies, NUS) on Bosonic Quantum Error Correction (QEC). Where my focus in on building Noise modelling pipeline for our BARC codes.
 - Our work is now available on arxiv: https://arxiv.org/abs/2610.03663
-- Over this project I have developed an interest in computational QEC. 
+- Over this project I have developed an interest in computational QEC.
+- Some of our BARC codes:
+<p align="center">
+  <img src="Hex1_18_sun.png" width="30%">
+  <img src="Hex2_18.png" width="30%">
+  <img src="Hex3_18.png" width="30%">
+</p>
+
 
 - Interested in Quantum Machine Learning, Quantum Algorithms, CV Quantum Information, Quantum Error Correction.
  
