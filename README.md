@@ -1,19 +1,15 @@
 <h1 align="center">Praneel Gore</h1>
-<h3 align="center">Working towards Quantum Information</h3>
+<h3 align="center">Working towards Quantum Information/Error correction</h3>
 
-- Currently working at A*STAR (Agency for Science, Technology and Research, IAIC) in collaboration with CQT (Center for Quantum Technologies, NUS) on Bosonic Quantum Error Correction (QEC). Where I build Noise modelling pipeline for new family of bosonic codes.
--  
-- 🔭 recent work on Multi perspective framework for Diagnostics of Hybrid Quantum Neural Networks is hosted as a preprint at Research Square : https://www.researchsquare.com/article/rs-7093575/v1
-  Research Gate: https://www.researchgate.net/scientific-contributions/Praneel-Gore-2320201473
-  Sciety: https://sciety.org/articles/activity/10.21203/rs.3.rs-7093575/v1
+- Currently working at A*STAR (Agency for Science, Technology and Research, IAIC) in collaboration with CQT (Center for Quantum Technologies, NUS) on Bosonic Quantum Error Correction (QEC). Where my focus in on building Noise modelling pipeline for our BARC codes.
+- Our work is now available on arxiv: https://arxiv.org/abs/2610.03663
+- Over this project I have developed an interest in computational QEC. 
 
 - Interested in Quantum Machine Learning, Quantum Algorithms, CV Quantum Information, Quantum Error Correction.
-- 
-- Am looking for graduate study opportunities (preferably PhD in quantum information), if you have any positions feel free to reach out!
+ 
+- Am looking for graduate study opportunities (preferably PhD in quantum error correction/information), if you have any positions please do let me know!
   
 - 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. Bullish on photonic quantum computing (🔦⚛️🖥️)
-
-- 🍉 Watermelon is the best fruit, followed by lychee.
 
 Currently studying Bosonic QEC (Below animation: Wigner distribution of cat states, from wiki)
 <p align="center">
