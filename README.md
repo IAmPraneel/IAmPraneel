@@ -1,9 +1,9 @@
 <h1 align="center">Praneel Gore</h1>
 <h3 align="center">Working towards Quantum Information/Error correction</h3>
 
-- Currently working at A*STAR (Agency for Science, Technology and Research, IAIC) in collaboration with CQT (Center for Quantum Technologies, NUS) on Bosonic Quantum Error Correction (QEC). Where my focus in on building Noise modelling pipeline for our BARC codes.
+- Recently completed an internship at A*STAR (Agency for Science, Technology and Research, IAIC) in collaboration with CQT (Center for Quantum Technologies, NUS) on Bosonic Quantum Error Correction (QEC). Where my focus in on building Noise modelling pipeline for our BARC codes.
 - Our work is now available on arxiv: https://arxiv.org/abs/2610.03663
-- Over this project I have developed an interest in computational QEC.
+- Over this project I have developed an interest in computational QEC and in particular QEC decoding.
 - Some of our BARC codes:
 <p align="center">
   <img src="Hex1_18_sun.png" width="30%">
@@ -16,9 +16,11 @@
  
 - Am looking for graduate study opportunities (preferably PhD in quantum error correction/information), if you have any positions please do let me know!
   
-- 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. Bullish on photonic quantum computing (🔦⚛️🖥️)
+- 👯 I’m looking to collaborate on research work at the intersection of Deep Learning, Neuromorphic computing, Photonic computing, Quantum Machine Learning. 
 
-Currently studying Bosonic QEC (Below animation: Wigner distribution of cat states, from wiki)
+Currently studying QEC (with a focus on decoding)
+
+(Below animation: Wigner distribution of cat states, from wiki coz it looks cool)
 <p align="center">
   <img src="Wigner_quasiprobability_distribution_of_cat_states_grid-ezgif.com-cut.gif" alt="Wigner Cat GIF" />
 </p>
